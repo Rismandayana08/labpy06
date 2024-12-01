@@ -174,3 +174,5 @@ Daftar Nilai
 [(L)ihat (T)ambah (U)bah (H)apus (K)eluar] : k
 Program selesai.
 ```
+# Flowchart
+![Flowchart](/flowchart.png)
